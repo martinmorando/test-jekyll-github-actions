@@ -12,6 +12,4 @@ jobs:
     - uses: helaili/jekyll-action@v2
       with:
         token: ${{ secrets.TOKEN }}
-        jekyll_src: 'sample-site-b'
-        gem_src: 'sample-site-b'
         target_branch: 'gh-pages'
