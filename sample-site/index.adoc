@@ -1,9 +1,0 @@
----
-layout: home
----
-= Sample AsciiDoc site built with a Jekyll Action
-:icons: font
-:showtitle:
-:sourcedir: ..
-:page-title: Sample Site
-:page-description: Home of a sample AsciiDoc site for the Jekyll Action.

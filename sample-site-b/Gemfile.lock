@@ -31,9 +31,9 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 2.0)
-    jekyll-asciidoc (3.0.0)
+    jekyll-asciidoc (2.1.1)
       asciidoctor (>= 1.5.0)
-      jekyll (>= 3.0.0)
+      jekyll (>= 2.3.0)
     jekyll-feed (0.15.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (2.1.0)
@@ -71,14 +71,13 @@ GEM
     unicode-display_width (1.7.0)
 
 PLATFORMS
-  ruby
+  x86_64-linux
 
 DEPENDENCIES
   coderay (~> 1.1.0)
   jekyll (~> 4.2.0)
-  jekyll-asciidoc (~> 3.0.0)
-  jekyll-feed
-  jekyll-seo-tag
+  jekyll-asciidoc (~> 2.1.1)
+  jekyll-feed (~> 0.12)
   minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data

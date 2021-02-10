@@ -1,0 +1,10 @@
+= Sample Page
+:page-layout: info
+:page-permalink: /
+:url-asciidoctor: https://github.com/asciidoctor/jekyll-asciidoc
+
+This is a sample page composed in AsciiDoc.
+Jekyll converts it to HTML using {url-asciidoctor}[Asciidoctor].
+
+[source,ruby]
+puts "Hello, World!"
