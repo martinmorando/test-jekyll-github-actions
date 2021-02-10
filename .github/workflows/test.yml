@@ -5,7 +5,7 @@ on:
 
 jobs:
   jekyll:
-    runs-on: ubuntu-lastest
+    runs-on: ubuntu-latest
     steps:
 
     # Specify the Jekyll source location as a parameter
